@@ -1,5 +1,8 @@
 # flutter_umeng
 
+[![GitHub release](https://img.shields.io/github/release/upcwangying/flutter_umeng)](https://github.com/upcwangying/flutter_umeng)
+[![Pub](https://img.shields.io/pub/v/flutter_umeng)](https://pub.dev/packages/flutter_umeng)
+
 A new flutter plugin project.
 
 ## Getting Started
